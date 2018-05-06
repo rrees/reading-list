@@ -1,2 +1,3 @@
-# reading-list
-An app to store what I'm reading and any in-progress notes I have about them
+# Heroku Flask Template
+
+A template project for getting a Flask application running quickly on Heroku.
